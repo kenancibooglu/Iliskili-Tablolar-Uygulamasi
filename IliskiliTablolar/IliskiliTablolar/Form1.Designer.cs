@@ -1,4 +1,4 @@
-﻿namespace Hotel_Automation
+﻿namespace IliskiliTablolar
 {
     partial class Form1
     {
@@ -34,9 +34,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(514, 347);
+            this.ClientSize = new System.Drawing.Size(621, 275);
             this.Name = "Form1";
-            this.Text = "Hotel Tracking System V1.24 Company Inc.  Copyright © 2024";
+            this.Text = "Form1";
             this.ResumeLayout(false);
 
         }

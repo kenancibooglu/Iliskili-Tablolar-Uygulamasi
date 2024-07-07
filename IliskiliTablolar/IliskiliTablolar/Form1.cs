@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Hotel_Automation
+namespace IliskiliTablolar
 {
     public partial class Form1 : Form
     {

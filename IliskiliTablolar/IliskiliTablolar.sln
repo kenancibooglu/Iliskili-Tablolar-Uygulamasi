@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel-Automation", "Hotel-Automation\Hotel-Automation.csproj", "{EC8E793B-9E6A-43C2-AA3B-F9CE115BFD4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IliskiliTablolar", "IliskiliTablolar\IliskiliTablolar.csproj", "{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EC8E793B-9E6A-43C2-AA3B-F9CE115BFD4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EC8E793B-9E6A-43C2-AA3B-F9CE115BFD4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EC8E793B-9E6A-43C2-AA3B-F9CE115BFD4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EC8E793B-9E6A-43C2-AA3B-F9CE115BFD4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D548C1AA-6DEE-4B91-BB9E-1FC7EE4A61C3}
+		SolutionGuid = {6D1201F2-C936-4BF5-8D07-59E5EA78D957}
 	EndGlobalSection
 EndGlobal

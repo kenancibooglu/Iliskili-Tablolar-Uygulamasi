@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Hotel_Automation.Properties
+namespace IliskiliTablolar.Properties
 {
 
 
