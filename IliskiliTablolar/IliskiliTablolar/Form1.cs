@@ -16,5 +16,13 @@ namespace IliskiliTablolar
         {
             InitializeComponent();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            FrmOgrenciNotlar fr = new FrmOgrenciNotlar();
+            fr.numara = textBox1.Text;
+            fr.Show();
+
+        }
     }
 }

@@ -1,0 +1,11 @@
+C:\Users\90539\Desktop\GitHub\C# Projects\Iliskili-Tablolar-Uygulamasi\IliskiliTablolar\IliskiliTablolar\bin\Debug\IliskiliTablolar.exe.config
+C:\Users\90539\Desktop\GitHub\C# Projects\Iliskili-Tablolar-Uygulamasi\IliskiliTablolar\IliskiliTablolar\bin\Debug\IliskiliTablolar.exe
+C:\Users\90539\Desktop\GitHub\C# Projects\Iliskili-Tablolar-Uygulamasi\IliskiliTablolar\IliskiliTablolar\bin\Debug\IliskiliTablolar.pdb
+C:\Users\90539\Desktop\GitHub\C# Projects\Iliskili-Tablolar-Uygulamasi\IliskiliTablolar\IliskiliTablolar\obj\Debug\IliskiliTablolar.csproj.AssemblyReference.cache
+C:\Users\90539\Desktop\GitHub\C# Projects\Iliskili-Tablolar-Uygulamasi\IliskiliTablolar\IliskiliTablolar\obj\Debug\IliskiliTablolar.Form1.resources
+C:\Users\90539\Desktop\GitHub\C# Projects\Iliskili-Tablolar-Uygulamasi\IliskiliTablolar\IliskiliTablolar\obj\Debug\IliskiliTablolar.Properties.Resources.resources
+C:\Users\90539\Desktop\GitHub\C# Projects\Iliskili-Tablolar-Uygulamasi\IliskiliTablolar\IliskiliTablolar\obj\Debug\IliskiliTablolar.csproj.GenerateResource.cache
+C:\Users\90539\Desktop\GitHub\C# Projects\Iliskili-Tablolar-Uygulamasi\IliskiliTablolar\IliskiliTablolar\obj\Debug\IliskiliTablolar.csproj.CoreCompileInputs.cache
+C:\Users\90539\Desktop\GitHub\C# Projects\Iliskili-Tablolar-Uygulamasi\IliskiliTablolar\IliskiliTablolar\obj\Debug\IliskiliTablolar.exe
+C:\Users\90539\Desktop\GitHub\C# Projects\Iliskili-Tablolar-Uygulamasi\IliskiliTablolar\IliskiliTablolar\obj\Debug\IliskiliTablolar.pdb
+C:\Users\90539\Desktop\GitHub\C# Projects\Iliskili-Tablolar-Uygulamasi\IliskiliTablolar\IliskiliTablolar\obj\Debug\IliskiliTablolar.FrmOgrenciNotlar.resources
