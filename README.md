@@ -1,2 +1,2 @@
-# Hotel-Automation-System
+# İlişkili Tablolar Uygulamasi
 
