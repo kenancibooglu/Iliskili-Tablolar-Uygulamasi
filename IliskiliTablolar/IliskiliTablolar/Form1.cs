@@ -24,5 +24,12 @@ namespace IliskiliTablolar
             fr.Show();
 
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            FrmOgretmen fr = new FrmOgretmen();
+            fr.Show();
+            this.Hide();
+        }
     }
 }

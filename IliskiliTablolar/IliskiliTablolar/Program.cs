@@ -16,7 +16,7 @@ namespace IliskiliTablolar
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmOgretmen());
+            Application.Run(new Form1());
         }
     }
 }

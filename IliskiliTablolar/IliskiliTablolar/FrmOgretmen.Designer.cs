@@ -89,6 +89,7 @@
             this.button2.TabIndex = 2;
             this.button2.Text = "Kulüp İşlemleri";
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // pictureBox3
             // 
@@ -161,7 +162,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Salmon;
-            this.ClientSize = new System.Drawing.Size(368, 368);
+            this.ClientSize = new System.Drawing.Size(368, 357);
             this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.pictureBox4);

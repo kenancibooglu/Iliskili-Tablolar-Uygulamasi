@@ -9,3 +9,5 @@ C:\Users\90539\Desktop\GitHub\C# Projects\Iliskili-Tablolar-Uygulamasi\IliskiliT
 C:\Users\90539\Desktop\GitHub\C# Projects\Iliskili-Tablolar-Uygulamasi\IliskiliTablolar\IliskiliTablolar\obj\Debug\IliskiliTablolar.exe
 C:\Users\90539\Desktop\GitHub\C# Projects\Iliskili-Tablolar-Uygulamasi\IliskiliTablolar\IliskiliTablolar\obj\Debug\IliskiliTablolar.pdb
 C:\Users\90539\Desktop\GitHub\C# Projects\Iliskili-Tablolar-Uygulamasi\IliskiliTablolar\IliskiliTablolar\obj\Debug\IliskiliTablolar.FrmOgrenciNotlar.resources
+C:\Users\90539\Desktop\GitHub\C# Projects\Iliskili-Tablolar-Uygulamasi\IliskiliTablolar\IliskiliTablolar\obj\Debug\IliskiliTablolar.FrmKulup.resources
+C:\Users\90539\Desktop\GitHub\C# Projects\Iliskili-Tablolar-Uygulamasi\IliskiliTablolar\IliskiliTablolar\obj\Debug\IliskiliTablolar.FrmOgretmen.resources
