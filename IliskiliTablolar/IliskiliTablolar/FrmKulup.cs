@@ -89,5 +89,7 @@ namespace IliskiliTablolar
             fr.Show();
             this.Hide();
         }
+
+       
     }
 }

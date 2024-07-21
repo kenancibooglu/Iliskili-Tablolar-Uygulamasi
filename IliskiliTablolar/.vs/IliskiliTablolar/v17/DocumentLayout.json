@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Iliskili-Tablolar-Uygulamasi\\IliskiliTablolar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}|IliskiliTablolar\\IliskiliTablolar.csproj|c:\\users\\90539\\desktop\\github\\c# projects\\iliskili-tablolar-uygulamasi\\iliskilitablolar\\iliskilitablolar\\frmdersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}|IliskiliTablolar\\IliskiliTablolar.csproj|solutionrelative:iliskilitablolar\\frmdersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}|IliskiliTablolar\\IliskiliTablolar.csproj|c:\\users\\90539\\desktop\\github\\c# projects\\iliskili-tablolar-uygulamasi\\iliskilitablolar\\iliskilitablolar\\frmkulup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}|IliskiliTablolar\\IliskiliTablolar.csproj|solutionrelative:iliskilitablolar\\frmkulup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}|IliskiliTablolar\\IliskiliTablolar.csproj|c:\\users\\90539\\desktop\\github\\c# projects\\iliskili-tablolar-uygulamasi\\iliskilitablolar\\iliskilitablolar\\frmogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}|IliskiliTablolar\\IliskiliTablolar.csproj|c:\\users\\90539\\desktop\\github\\c# projects\\iliskili-tablolar-uygulamasi\\iliskilitablolar\\iliskilitablolar\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}|IliskiliTablolar\\IliskiliTablolar.csproj|solutionrelative:iliskilitablolar\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}|IliskiliTablolar\\IliskiliTablolar.csproj|c:\\users\\90539\\desktop\\github\\c# projects\\iliskili-tablolar-uygulamasi\\iliskilitablolar\\iliskilitablolar\\frmdersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}|IliskiliTablolar\\IliskiliTablolar.csproj|solutionrelative:iliskilitablolar\\frmdersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}|IliskiliTablolar\\IliskiliTablolar.csproj|C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Iliskili-Tablolar-Uygulamasi\\IliskiliTablolar\\iliskilitablolar\\frmogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}|IliskiliTablolar\\IliskiliTablolar.csproj|solutionrelative:iliskilitablolar\\frmogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}|IliskiliTablolar\\IliskiliTablolar.csproj|c:\\users\\90539\\desktop\\github\\c# projects\\iliskili-tablolar-uygulamasi\\iliskilitablolar\\iliskilitablolar\\frmkulup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}|IliskiliTablolar\\IliskiliTablolar.csproj|solutionrelative:iliskilitablolar\\frmkulup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}|IliskiliTablolar\\IliskiliTablolar.csproj|c:\\users\\90539\\desktop\\github\\c# projects\\iliskili-tablolar-uygulamasi\\iliskilitablolar\\iliskilitablolar\\frmogrencinotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}|IliskiliTablolar\\IliskiliTablolar.csproj|solutionrelative:iliskilitablolar\\frmogrencinotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}|IliskiliTablolar\\IliskiliTablolar.csproj|c:\\users\\90539\\desktop\\github\\c# projects\\iliskili-tablolar-uygulamasi\\iliskilitablolar\\iliskilitablolar\\frmogrencinotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D2EC03A9-0D01-45E7-A5D7-187FCDB8B5EE}|IliskiliTablolar\\IliskiliTablolar.csproj|solutionrelative:iliskilitablolar\\frmogrencinotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "FrmOgretmen.cs [Design]",
               "DocumentMoniker": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Iliskili-Tablolar-Uygulamasi\\IliskiliTablolar\\IliskiliTablolar\\FrmOgretmen.cs",
               "RelativeDocumentMoniker": "IliskiliTablolar\\FrmOgretmen.cs",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FrmKulup.cs [Design]",
               "DocumentMoniker": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Iliskili-Tablolar-Uygulamasi\\IliskiliTablolar\\IliskiliTablolar\\FrmKulup.cs",
               "RelativeDocumentMoniker": "IliskiliTablolar\\FrmKulup.cs",
@@ -59,45 +59,45 @@
               "EditorCaption": " [Design]"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Iliskili-Tablolar-Uygulamasi\\IliskiliTablolar\\IliskiliTablolar\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "IliskiliTablolar\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Iliskili-Tablolar-Uygulamasi\\IliskiliTablolar\\IliskiliTablolar\\DataSet1.xsd",
+              "RelativeToolTip": "IliskiliTablolar\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-07-21T20:49:51.478Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmKulup.cs",
-              "DocumentMoniker": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Iliskili-Tablolar-Uygulamasi\\IliskiliTablolar\\IliskiliTablolar\\FrmKulup.cs",
-              "RelativeDocumentMoniker": "IliskiliTablolar\\FrmKulup.cs",
-              "ToolTip": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Iliskili-Tablolar-Uygulamasi\\IliskiliTablolar\\IliskiliTablolar\\FrmKulup.cs",
-              "RelativeToolTip": "IliskiliTablolar\\FrmKulup.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAhwFkAAAAYAAAA",
+              "DocumentIndex": 0,
+              "Title": "FrmDersler.cs",
+              "DocumentMoniker": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Iliskili-Tablolar-Uygulamasi\\IliskiliTablolar\\IliskiliTablolar\\FrmDersler.cs",
+              "RelativeDocumentMoniker": "IliskiliTablolar\\FrmDersler.cs",
+              "ToolTip": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Iliskili-Tablolar-Uygulamasi\\IliskiliTablolar\\IliskiliTablolar\\FrmDersler.cs",
+              "RelativeToolTip": "IliskiliTablolar\\FrmDersler.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T14:07:17.168Z",
+              "WhenOpened": "2024-07-21T20:51:56.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FrmOgrenciNotlar.cs",
-              "DocumentMoniker": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Iliskili-Tablolar-Uygulamasi\\IliskiliTablolar\\IliskiliTablolar\\FrmOgrenciNotlar.cs",
-              "RelativeDocumentMoniker": "IliskiliTablolar\\FrmOgrenciNotlar.cs",
-              "ToolTip": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Iliskili-Tablolar-Uygulamasi\\IliskiliTablolar\\IliskiliTablolar\\FrmOgrenciNotlar.cs",
-              "RelativeToolTip": "IliskiliTablolar\\FrmOgrenciNotlar.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "FrmDersler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Iliskili-Tablolar-Uygulamasi\\IliskiliTablolar\\IliskiliTablolar\\FrmDersler.cs",
+              "RelativeDocumentMoniker": "IliskiliTablolar\\FrmDersler.cs",
+              "ToolTip": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Iliskili-Tablolar-Uygulamasi\\IliskiliTablolar\\IliskiliTablolar\\FrmDersler.cs [Design]",
+              "RelativeToolTip": "IliskiliTablolar\\FrmDersler.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T14:15:54.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmOgrenciNotlar.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Iliskili-Tablolar-Uygulamasi\\IliskiliTablolar\\IliskiliTablolar\\FrmOgrenciNotlar.cs",
-              "RelativeDocumentMoniker": "IliskiliTablolar\\FrmOgrenciNotlar.cs",
-              "ToolTip": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Iliskili-Tablolar-Uygulamasi\\IliskiliTablolar\\IliskiliTablolar\\FrmOgrenciNotlar.cs [Design]",
-              "RelativeToolTip": "IliskiliTablolar\\FrmOgrenciNotlar.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T14:15:53.189Z",
+              "WhenOpened": "2024-07-21T20:35:26.234Z",
               "EditorCaption": " [Design]"
             }
           ]

@@ -22,5 +22,11 @@ namespace IliskiliTablolar
             FrmKulup fr = new FrmKulup();
             fr.Show();
         }
+
+        private void btnders_Click(object sender, EventArgs e)
+        {
+            FrmDersler fr = new FrmDersler();
+            fr.Show();
+        }
     }
 }
