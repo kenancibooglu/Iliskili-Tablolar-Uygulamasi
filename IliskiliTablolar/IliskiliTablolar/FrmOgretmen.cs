@@ -28,5 +28,11 @@ namespace IliskiliTablolar
             FrmDersler fr = new FrmDersler();
             fr.Show();
         }
+
+        private void btnogrenciIslemleri_Click(object sender, EventArgs e)
+        {
+            FrmOgrenci fr = new FrmOgrenci();
+            fr.Show();
+        }
     }
 }

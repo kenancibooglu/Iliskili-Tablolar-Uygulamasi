@@ -69,6 +69,12 @@
     <Compile Include="FrmKulup.Designer.cs">
       <DependentUpon>FrmKulup.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmOgrenci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOgrenci.Designer.cs">
+      <DependentUpon>FrmOgrenci.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmOgrenciNotlar.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -91,6 +97,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmKulup.resx">
       <DependentUpon>FrmKulup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOgrenci.resx">
+      <DependentUpon>FrmOgrenci.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmOgrenciNotlar.resx">
       <DependentUpon>FrmOgrenciNotlar.cs</DependentUpon>

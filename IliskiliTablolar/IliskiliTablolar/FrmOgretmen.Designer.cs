@@ -38,7 +38,7 @@
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.button4 = new System.Windows.Forms.Button();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.button5 = new System.Windows.Forms.Button();
+            this.btnogrenciIslemleri = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -146,17 +146,18 @@
             this.pictureBox5.TabIndex = 9;
             this.pictureBox5.TabStop = false;
             // 
-            // button5
+            // btnogrenciIslemleri
             // 
-            this.button5.BackColor = System.Drawing.Color.Salmon;
-            this.button5.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button5.Location = new System.Drawing.Point(143, 294);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(217, 50);
-            this.button5.TabIndex = 8;
-            this.button5.Text = "Öğrenci İşlemleri";
-            this.button5.UseVisualStyleBackColor = false;
+            this.btnogrenciIslemleri.BackColor = System.Drawing.Color.Salmon;
+            this.btnogrenciIslemleri.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnogrenciIslemleri.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnogrenciIslemleri.Location = new System.Drawing.Point(143, 294);
+            this.btnogrenciIslemleri.Name = "btnogrenciIslemleri";
+            this.btnogrenciIslemleri.Size = new System.Drawing.Size(217, 50);
+            this.btnogrenciIslemleri.TabIndex = 8;
+            this.btnogrenciIslemleri.Text = "Öğrenci İşlemleri";
+            this.btnogrenciIslemleri.UseVisualStyleBackColor = false;
+            this.btnogrenciIslemleri.Click += new System.EventHandler(this.btnogrenciIslemleri_Click);
             // 
             // FrmOgretmen
             // 
@@ -165,7 +166,7 @@
             this.BackColor = System.Drawing.Color.Salmon;
             this.ClientSize = new System.Drawing.Size(368, 357);
             this.Controls.Add(this.pictureBox5);
-            this.Controls.Add(this.button5);
+            this.Controls.Add(this.btnogrenciIslemleri);
             this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.pictureBox3);
@@ -200,6 +201,6 @@
         private System.Windows.Forms.PictureBox pictureBox4;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.PictureBox pictureBox5;
-        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button btnogrenciIslemleri;
     }
 }
