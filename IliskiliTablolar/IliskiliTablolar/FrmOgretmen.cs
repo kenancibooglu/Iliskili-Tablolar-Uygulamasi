@@ -34,5 +34,11 @@ namespace IliskiliTablolar
             FrmOgrenci fr = new FrmOgrenci();
             fr.Show();
         }
+
+        private void btnSınavNotlari_Click(object sender, EventArgs e)
+        {
+            FrmSınavNotlar fr = new FrmSınavNotlar();
+            fr.Show();
+        }
     }
 }

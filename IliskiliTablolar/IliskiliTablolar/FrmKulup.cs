@@ -53,6 +53,7 @@ namespace IliskiliTablolar
 
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
+            // tıklandığında hücreleri gridtten inputlara yansıtır.
             txtid.Text = dataGridView1.Rows[e.RowIndex].Cells[0].Value.ToString();
             txtad.Text = dataGridView1.Rows[e.RowIndex].Cells[1].Value.ToString();  
 

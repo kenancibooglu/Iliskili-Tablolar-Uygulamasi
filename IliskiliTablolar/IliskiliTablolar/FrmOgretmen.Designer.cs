@@ -34,7 +34,7 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.button2 = new System.Windows.Forms.Button();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.button3 = new System.Windows.Forms.Button();
+            this.btnSınavNotlari = new System.Windows.Forms.Button();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.button4 = new System.Windows.Forms.Button();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
@@ -102,17 +102,18 @@
             this.pictureBox3.TabIndex = 5;
             this.pictureBox3.TabStop = false;
             // 
-            // button3
+            // btnSınavNotlari
             // 
-            this.button3.BackColor = System.Drawing.Color.Salmon;
-            this.button3.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Location = new System.Drawing.Point(143, 159);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(217, 50);
-            this.button3.TabIndex = 4;
-            this.button3.Text = "Sınav Notları";
-            this.button3.UseVisualStyleBackColor = false;
+            this.btnSınavNotlari.BackColor = System.Drawing.Color.Salmon;
+            this.btnSınavNotlari.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnSınavNotlari.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnSınavNotlari.Location = new System.Drawing.Point(143, 159);
+            this.btnSınavNotlari.Name = "btnSınavNotlari";
+            this.btnSınavNotlari.Size = new System.Drawing.Size(217, 50);
+            this.btnSınavNotlari.TabIndex = 4;
+            this.btnSınavNotlari.Text = "Sınav Notları";
+            this.btnSınavNotlari.UseVisualStyleBackColor = false;
+            this.btnSınavNotlari.Click += new System.EventHandler(this.btnSınavNotlari_Click);
             // 
             // pictureBox4
             // 
@@ -170,7 +171,7 @@
             this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.pictureBox3);
-            this.Controls.Add(this.button3);
+            this.Controls.Add(this.btnSınavNotlari);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.pictureBox1);
@@ -197,7 +198,7 @@
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.PictureBox pictureBox3;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button btnSınavNotlari;
         private System.Windows.Forms.PictureBox pictureBox4;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.PictureBox pictureBox5;
