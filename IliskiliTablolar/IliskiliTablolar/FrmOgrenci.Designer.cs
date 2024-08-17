@@ -170,7 +170,7 @@
             // 
             // txtad
             // 
-            this.txtad.Location = new System.Drawing.Point(539, 172);
+            this.txtad.Location = new System.Drawing.Point(567, 338);
             this.txtad.Name = "txtad";
             this.txtad.Size = new System.Drawing.Size(247, 26);
             this.txtad.TabIndex = 39;
@@ -178,7 +178,7 @@
             // txtid
             // 
             this.txtid.Enabled = false;
-            this.txtid.Location = new System.Drawing.Point(539, 132);
+            this.txtid.Location = new System.Drawing.Point(567, 298);
             this.txtid.Name = "txtid";
             this.txtid.Size = new System.Drawing.Size(247, 26);
             this.txtid.TabIndex = 38;
@@ -187,7 +187,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label3.Location = new System.Drawing.Point(416, 175);
+            this.label3.Location = new System.Drawing.Point(444, 341);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(49, 20);
             this.label3.TabIndex = 37;
@@ -197,7 +197,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label2.Location = new System.Drawing.Point(416, 135);
+            this.label2.Location = new System.Drawing.Point(444, 301);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(34, 20);
             this.label2.TabIndex = 36;
@@ -237,7 +237,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label4.Location = new System.Drawing.Point(416, 209);
+            this.label4.Location = new System.Drawing.Point(444, 375);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(79, 20);
             this.label4.TabIndex = 49;
@@ -247,7 +247,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label5.Location = new System.Drawing.Point(416, 249);
+            this.label5.Location = new System.Drawing.Point(444, 415);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(83, 20);
             this.label5.TabIndex = 50;
@@ -255,7 +255,7 @@
             // 
             // txtsoyad
             // 
-            this.txtsoyad.Location = new System.Drawing.Point(539, 209);
+            this.txtsoyad.Location = new System.Drawing.Point(567, 375);
             this.txtsoyad.Name = "txtsoyad";
             this.txtsoyad.Size = new System.Drawing.Size(247, 26);
             this.txtsoyad.TabIndex = 51;
@@ -263,7 +263,7 @@
             // cmbkulub
             // 
             this.cmbkulub.FormattingEnabled = true;
-            this.cmbkulub.Location = new System.Drawing.Point(539, 246);
+            this.cmbkulub.Location = new System.Drawing.Point(567, 412);
             this.cmbkulub.Name = "cmbkulub";
             this.cmbkulub.Size = new System.Drawing.Size(247, 28);
             this.cmbkulub.TabIndex = 52;
@@ -272,7 +272,7 @@
             // 
             this.radioButton1.AutoSize = true;
             this.radioButton1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.radioButton1.Location = new System.Drawing.Point(539, 298);
+            this.radioButton1.Location = new System.Drawing.Point(567, 464);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(48, 24);
             this.radioButton1.TabIndex = 53;
@@ -284,7 +284,7 @@
             // 
             this.radioButton2.AutoSize = true;
             this.radioButton2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.radioButton2.Location = new System.Drawing.Point(608, 298);
+            this.radioButton2.Location = new System.Drawing.Point(636, 464);
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(68, 24);
             this.radioButton2.TabIndex = 54;
@@ -296,7 +296,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label6.Location = new System.Drawing.Point(416, 300);
+            this.label6.Location = new System.Drawing.Point(444, 466);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(91, 20);
             this.label6.TabIndex = 55;
@@ -328,7 +328,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(54)))), ((int)(((byte)(80)))));
-            this.ClientSize = new System.Drawing.Size(802, 500);
+            this.ClientSize = new System.Drawing.Size(922, 500);
             this.Controls.Add(this.btnara);
             this.Controls.Add(this.txtara);
             this.Controls.Add(this.label6);
