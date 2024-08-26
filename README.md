@@ -14,5 +14,6 @@
  <img src="./images/ogretmenPaneli4.PNG" alt="" />
  <img src="./images/ogretmenPaneli5.PNG" alt="" />
  
+ 
 
 
