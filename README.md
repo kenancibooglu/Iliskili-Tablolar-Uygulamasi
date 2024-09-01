@@ -1,6 +1,6 @@
 # İlişkili Tablolar Uygulamasi
 
-- DataSet
+- DataSet 
  <img src="./images/DataSetCrud1.PNG" alt="" />
 
 - Ana Giris ve Ogrenci Paneli
